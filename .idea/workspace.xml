@@ -1,26 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c99e2ce-a3dd-4a45-be48-8591dc82242e" name="Changes" comment="" />
+    <list default="true" id="6c99e2ce-a3dd-4a45-be48-8591dc82242e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test/constants/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageFactory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/dashboardPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/freeTrialPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/loginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/vwoLogin/test_vwo_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils/common_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/contants/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/constants/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tests/sample/test_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/sample/test_sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tests/sample/test_vwo_not_optimized.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/sample/test_vwo_not_optimized.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Adarshakumaram&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Adarshakumaram/WebAutomationFramework.git&quot;,
+    &quot;accountId&quot;: &quot;db5e546d-8558-4281-b682-21f339158945&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2sXPiV3yvhdVQtywxU79GPJpsTJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python tests.Python tests for test_112.test_vwo_sample.executor": "Run",
+    "Python tests.Python tests for test_vwo_login.test_vwo_login_negative.executor": "Run",
+    "Python tests.Python tests for test_vwo_login.test_vwo_login_positive.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_vwo_login.test_vwo_login_negative">
+    <configuration name="Python tests for test_112.test_vwo_sample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_112.test_vwo_sample&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_vwo_login.test_vwo_login_negative" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/tests/vwoLogin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_vwo_login.test_vwo_login_negative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_vwo_login.test_vwo_login_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="WebAutomationFramework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/tests/vwoLogin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_vwo_login.test_vwo_login_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_vwo_login.test_vwo_login_negative" />
+        <item itemvalue="Python tests.Python tests for test_vwo_login.test_vwo_login_positive" />
+        <item itemvalue="Python tests.Python tests for test_112.test_vwo_sample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -38,5 +141,16 @@
       <updated>1738599073229</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test/tests/vwoLogin/test_vwo_login.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
