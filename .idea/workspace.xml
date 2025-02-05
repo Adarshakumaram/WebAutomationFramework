@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c99e2ce-a3dd-4a45-be48-8591dc82242e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test/constants/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageFactory/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/dashboardPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/freeTrialPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/pageObjects/pageObjectModel/vwo/loginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tests/vwoLogin/test_vwo_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/utils/common_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/contants/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/constants/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tests/sample/test_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/sample/test_sample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/tests/sample/test_vwo_not_optimized.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/sample/test_vwo_not_optimized.py" afterDir="false" />
-    </list>
+    <list default="true" id="6c99e2ce-a3dd-4a45-be48-8591dc82242e" name="Changes" comment="2 feb" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +123,20 @@
       <option name="presentableId" value="Default" />
       <updated>1738599073229</updated>
     </task>
+    <task id="LOCAL-00001" summary="2 feb">
+      <option name="closed" value="true" />
+      <created>1738670232549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738670232549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 feb" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 feb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
